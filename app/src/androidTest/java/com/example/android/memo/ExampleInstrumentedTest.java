@@ -1,4 +1,4 @@
-package com.example.myfirstapp;
+package com.example.android.memo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
