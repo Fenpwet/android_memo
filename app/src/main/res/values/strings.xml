@@ -29,4 +29,9 @@
     <string name="relative_layout_view12">ToEndOf &amp;\nCenter Vertical</string>
     <string name="relative_layout_view13">Below &amp;\nCenter Horizontal</string>
 
+    <!-- Intent title -->
+    <string name="main_intent_title">Intents</string>
+    <string name="intent_hint">Intent extra</string>
+    <string name="main_intent_new_activity">Start new Activity</string>
+
 </resources>

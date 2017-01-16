@@ -24,4 +24,28 @@
         android:text="@string/main_layout_relative"
         android:textAllCaps="false" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/main_intent_title" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/main_display_activity_edit_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/intent_hint" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:onClick="toDisplayTextActivity"
+            android:text="@string/main_intent_new_activity"
+            android:textAllCaps="false" />
+    </LinearLayout>
+
 </LinearLayout>
