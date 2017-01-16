@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Android Memo</string>
+
+    <!-- Layout title -->
+    <string name="main_layout_title">Layouts</string>
+    <string name="main_layout_linear">Linear Layouts</string>
+    <string name="main_layout_relative">Relative Layouts</string>
+
+    <!-- Linear Layout contents -->
+    <string name="linear_layout_horizontal">Horizontal LinearLayout</string>
+    <string name="linear_layout_vertical">Vertical LinearLayout</string>
+    <string name="linear_layout_view1">View 1</string>
+    <string name="linear_layout_view2">View 2</string>
+    <string name="linear_layout_view3">View 3</string>
+    <string name="linear_layout_view4">View 4</string>
+
+    <!-- Relative Layout contents -->
+    <string name="relative_layout_view1">Default</string>
+    <string name="relative_layout_view2">Center Horizontal</string>
+    <string name="relative_layout_view3">Align Parent End</string>
+    <string name="relative_layout_view4">Center Vertical</string>
+    <string name="relative_layout_view5">Center in Parent</string>
+    <string name="relative_layout_view6">Align Parent End &amp; \nCenter Vertical</string>
+    <string name="relative_layout_view7">Align Parent Bottom</string>
+    <string name="relative_layout_view8">Align Parent Bottom &amp; \nCenter Horizontal</string>
+    <string name="relative_layout_view9">Align Parent Bottom &amp; \nAlign Parent End</string>
+    <string name="relative_layout_view10">ToStartOf &amp;\nCenter Vertical</string>
+    <string name="relative_layout_view11">Above &amp;\nCenter Horizontal</string>
+    <string name="relative_layout_view12">ToEndOf &amp;\nCenter Vertical</string>
+    <string name="relative_layout_view13">Below &amp;\nCenter Horizontal</string>
+
+</resources>
